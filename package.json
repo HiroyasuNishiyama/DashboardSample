@@ -1,0 +1,15 @@
+{
+    "name" : "node-red-dashboard-contrib-wsample",
+    "version" : "0.0.1",
+    "description" : "description of wsample node",
+    "dependencies" : {},
+    "repository" : {},
+    "license" : "Apache-2.0",
+    "keywords" : [],
+    "node-red" : {
+        "nodes" : {
+            "ui_wsample" : "wsample/ui_wsample.js"
+        }
+    },
+    "author" : {}
+}
